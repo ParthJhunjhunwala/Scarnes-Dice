@@ -7,4 +7,4 @@ GAME RULES:
 5. The first player to reach 100 points on GLOBAL score wins the game.
 
 Screenshot:
-![Scarnes Dice](https://user-images.githubusercontent.com/37436678/131266503-62034fa6-57fc-419a-9289-218f848e9ba2.png)
+![image](https://user-images.githubusercontent.com/37436678/131266503-62034fa6-57fc-419a-9289-218f848e9ba2.png)
