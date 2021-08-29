@@ -5,3 +5,6 @@ GAME RULES:
 3. IF the player rolls a 1 on either dice, his ROUND score gets lost. After that it's the next player's turn.
 4. The player can choose to 'Hold', meaning his ROUND score will be added to his GLOBAL score. After that it's the next player's turn.
 5. The first player to reach 100 points on GLOBAL score wins the game.
+
+Screenshot:
+![Scarnes Dice](https://user-images.githubusercontent.com/37436678/131266503-62034fa6-57fc-419a-9289-218f848e9ba2.png)
